@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Sou Bernardo Pereira, desenvolvedor Front-End Web e apaixonado por tecnologias como o Javascript.
+Sou Júlio César desenvolvedor Front-End Web e apaixonado por tecnologias como o Javascript.
 
 - 🔭 xyz.
 - 🌱 xyz.
