@@ -15,12 +15,10 @@
 
 Sou Júlio César desenvolvedor Front-End Web e apaixonado por tecnologias como o Javascript.
 
-- 🔭 xyz.
-- 🌱 xyz.
-- 👯 xyz.
-- 💬 xyz.
-- ⚡ xyz.
-- 🎓 xyz.
+- 🔭 Atualmente, estou aprendendo HTML, CSS e Javascript;
+- 🌱 Em busca de uma evolução na área;
+- ⚡ Curioso sobre: tecnologia, ciência, política social e inglês;
+- 🎓 Discente na EACH-USP (Universidade de São Paulo - EACH) - 2º Semeste.
 
 
 ## Contacs
